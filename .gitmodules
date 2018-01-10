@@ -4,3 +4,6 @@
 [submodule "jiangyang5157_cv"]
 	path = jiangyang5157_cv
 	url = https://github.com/jiangyang5157/cv.git
+[submodule "XuHongCN_cv"]
+	path = XuHongCN_cv
+	url = https://github.com/XuHongCN/cv.git
