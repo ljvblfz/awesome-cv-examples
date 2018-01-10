@@ -1,3 +1,6 @@
 [submodule "javydekoning_resume"]
 	path = javydekoning_resume
 	url = https://github.com/javydekoning/resume.git
+[submodule "jiangyang5157_cv"]
+	path = jiangyang5157_cv
+	url = https://github.com/jiangyang5157/cv.git
