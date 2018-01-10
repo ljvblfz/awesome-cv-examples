@@ -1,0 +1,3 @@
+[submodule "javydekoning_resume"]
+	path = javydekoning_resume
+	url = https://github.com/javydekoning/resume.git
